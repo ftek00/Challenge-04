@@ -55,3 +55,5 @@ THEN I can see the title, the content, and the author of the post.
 WHEN I view the footer,
 
 THEN I am presented with a link to the developer's portfolio.
+
+[click here] https://ftek00.github.io/Challenge-04/
